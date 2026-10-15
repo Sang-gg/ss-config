@@ -1,6 +1,6 @@
 #!name = YouTube Premium
 #!desc = Youtube Premium features. 
-#!author = 
+#!author = PanX
 
 [Rule]
 # Chặn ad UDP ở tầng transport
